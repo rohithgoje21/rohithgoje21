@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rohith Goje and I'm a passionate frontend developer, from India</p>
+<p align="left">My name is Rohith Goje and I'm a passionate fullstack developer and a competitive programmer, from India</p>
 
 ###
 
