@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I'm Rohith Goje</h1>
 
 <p align="left">
-Junior Engineer Intern at Nxzen | Full-Stack Developer | Competitive Programmer
+Associate Software Engineer at Nxzen | Full-Stack Developer | Competitive Programmer
 </p>
 
 ---
@@ -9,10 +9,9 @@ Junior Engineer Intern at Nxzen | Full-Stack Developer | Competitive Programmer
 <h2 align="left">About Me</h2>
 
 <p align="left">
-💻 Junior Engineer Intern at Nxzen building scalable full-stack systems<br>
-🚀 Contributed to Nxzen’s first Product-as-a-Service (PaaS) solution for Cadent, a gas incident intelligence platform supporting end-to-end gas and Carbon Monoxide (CO) case management<br>
-🎓 B.Tech Computer Science Engineering student at CMR Institute of Technology, Hyderabad (Graduating 2026)<br>
-⚡ Interested in distributed systems, real-time applications, backend engineering, and cloud technologies<br>
+💻 Associate Software Engineer at Nxzen building scalable full-stack systems<br>
+🎓 B.Tech Computer Science Engineering graduate from CMR Institute of Technology, Hyderabad (2026)<br>
+⚡ Interested in distributed systems, real-time applications, backend engineering, AI, and cloud technologies<br>
 🧠 Solved 1000+ coding problems across multiple competitive programming platforms
 </p>
 
@@ -22,17 +21,24 @@ Junior Engineer Intern at Nxzen | Full-Stack Developer | Competitive Programmer
 
 <div align="left">
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="40"/>
 
 </div>
 
